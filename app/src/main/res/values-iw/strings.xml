@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ידידים - צמיגים</string>
+    <string name="carNumber">מספר רכב</string>
+    <string name="noResults">עדיין אין תוצאות</string>
+    <string name="zmig">גודל צמיגים:</string>
+    <string name="fromGallery">העלאה מגלריה</string>
+    <string name="fromCamera">צילום מהמצלמה</string>
+    <string name="uploading">מעלה…</string>
+    <string name="uploaded">סגור אפליקציה</string>
+    <string name="upload">העלאת תמונה</string>
+    <string name="dontClose">נא לא לסגור עד סיום ההעלאה!</string>
+    <string name="close">הועלה בהצלחה!\nכעת ניתן לסגור את האפליקציה. \nתודה לך!</string>
+    <string name="instructions">הנחיות לצילום:ֿ\n\nיש לצלם את הגלגל לאחר פירוקו מהרכב. במידה ויש צלחת נוי (טסה) יש להסירה לפני הצילום.  \n\nנא להקפיד שיראו בצילום את הגלגל כולו, ולוודא שלא יהיו דברים שמסתירים את הצמיג, הג\'נט, חורי הברגים או החור המרכזי.  \n\nבבקשה לגוון את פרמטרי הצילום – בכל פעם זווית שונה, תאורה שונה, בלילה לפעמים עם פלאש ולפעמים בלי פלאש.  \n\nתודה רבה על שיתוף הפעולה!</string>
+    <string name="chooseRecord">בחר ברכב המבוקש להמשך התהליך:</string>
+    <string name="disclaimer">כל הזכויות שמורות לעמותת ידידים סיוע בדרכים ע״ר. \n\nנתוני הרכבים נלקחו מאתר GovData על פי רישיון פתוח. \n\nנוצר על ידי יהודה 1883.</string>
+    <string name="website">למעבר לאתר שלי</string>
+    <string name="closeDialog">סגור</string>
+    <string name="zmigKidmi">צמיג קדמי:</string>
+    <string name="zmigAhori">צמיג אחורי:</string>
+    <string name="processing">מעבד...</string>
+    <string name="error">נכשל :(</string>
+    <string name="tryAgain">נסה שוב מאוחר יותר</string>
+    <string name="thankYou">תודה על ההשתתפות והמאמץ!</string>
+    <string name="restart">התחל שוב</string>
+    <string name="upload_another">העלה עוד תמונה</string>
+    <string name="version">"גרסה %1$s "</string>
+    <string name="useAnyway">השתמש ב%d בכל מקרה</string>
+    <string name="contact">צור קשר</string>
+</resources>

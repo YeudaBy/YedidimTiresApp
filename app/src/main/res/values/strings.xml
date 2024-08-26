@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yedidim Tires</string>
+    <string name="carNumber">Car number</string>
+    <string name="noResults">There is still no results</string>
+    <string name="zmig">Tires sizes:</string>
+    <string name="fromGallery">Upload from gallery</string>
+    <string name="fromCamera">Capture from camera</string>
+    <string name="uploading">Uploading…</string>
+    <string name="uploaded">Close app</string>
+    <string name="upload">Upload image</string>
+    <string name="dontClose">Please do not close until uploading!</string>
+    <string name="close">You can now close the app. \\nThank you!</string>
+    <string name="instructions">Photography Instructions:\n\nPlease take a photo of the wheel after it has been removed from the vehicle. If there is a decorative hubcap, please remove it before taking the photo.\n\nEnsure that the entire wheel is visible in the photo, and make sure that nothing obstructs the view of the tire, rim, bolt holes, or the central hole.\n\nPlease vary the photography parameters – use different angles each time, different lighting conditions, and at night, sometimes with flash and sometimes without flash.\n\nThank you very much for your cooperation!</string>
+    <string name="chooseRecord">Select the requested car to continue the process:</string>
+    <string name="disclaimer">All rights are reserved to Yedidim Association.\n\nThe cars data was taken from the GovData website under an open license.\n\nCreated by Yeudab 1883.</string>
+    <string name="website">Go to my website</string>
+    <string name="closeDialog">Close</string>
+    <string name="zmigKidmi">Front wheel:</string>
+    <string name="zmigAhori">Rear tire:</string>
+    <string name="processing">Processing</string>
+    <string name="error">Failed :(</string>
+    <string name="tryAgain">Try again later</string>
+    <string name="thankYou">Thank you for your participation and effort!</string>
+    <string name="restart">Start over</string>
+    <string name="upload_another">Upload another image</string>
+    <string name="version">version %s</string>
+    <string name="useAnyway">Use %d anyway</string>
+    <string name="contact">Contact</string>
+</resources>
